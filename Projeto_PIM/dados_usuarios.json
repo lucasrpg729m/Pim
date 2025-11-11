@@ -1,0 +1,138 @@
+{
+    "admin": {
+        "senha": "Admin@123",
+        "email": "admin@unip.com",
+        "idade": 35,
+        "is_admin": true,
+        "tipo": "admin",
+        "data_cadastro": "2025-11-06T20:50:52.219251",
+        "cursos": [],
+        "nome_completo": "Administrador Sistema",
+        "telefone": "(11) 99999-9999"
+    },
+    "prof.python": {
+        "senha": "Professor@123",
+        "email": "prof.python@unip.com",
+        "idade": 40,
+        "is_admin": false,
+        "tipo": "professor",
+        "data_cadastro": "2025-11-06T20:50:52.219266",
+        "cursos": [
+            "1"
+        ],
+        "nome_completo": "Professor Python",
+        "telefone": "(11) 98888-8888"
+    },
+    "prof.web": {
+        "senha": "Professor@123",
+        "email": "prof.web@unip.com",
+        "idade": 38,
+        "is_admin": false,
+        "tipo": "professor",
+        "data_cadastro": "2025-11-06T20:50:52.219271",
+        "cursos": [
+            "2"
+        ],
+        "nome_completo": "Professor Web",
+        "telefone": "(11) 97777-7777"
+    },
+    "davi": {
+        "senha": "Davi1234@",
+        "email": "davi@aluno.unip.br",
+        "idade": 20,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-06T20:51:53.207358",
+        "cursos": [
+            1,
+            2,
+            3,
+            "1",
+            "2",
+            "3"
+        ],
+        "nome_completo": "davi",
+        "telefone": "(11) 93243-1230",
+        "certificados": [
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "08/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "08/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "09/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "09/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            }
+        ],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null
+    },
+    "junin0bala": {
+        "senha": "Junin1234@",
+        "email": "junin0bala@aluno.unip.br",
+        "idade": 18,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-09T13:01:57.333567",
+        "cursos": [
+            "1"
+        ],
+        "nome_completo": "junin da silva",
+        "telefone": "(11) 99999-9992",
+        "certificados": [
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "09/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "junin da silva",
+                "aluno_usuario": "junin0bala",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Conclusão Total"
+            }
+        ],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null,
+        "preferencias_aprendizado": {
+            "modalidade": "visual",
+            "ritmo": "calmo"
+        },
+        "interesses": []
+    }
+}
