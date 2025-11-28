@@ -1,0 +1,350 @@
+{
+    "admin": {
+        "senha": "Admin@123",
+        "email": "admin@unip.com",
+        "idade": 35,
+        "is_admin": true,
+        "tipo": "admin",
+        "data_cadastro": "2025-11-06T20:50:52.219251",
+        "cursos": [],
+        "nome_completo": "Administrador Sistema",
+        "telefone": "(11) 99999-9999"
+    },
+    "prof.python": {
+        "senha": "Professor@123",
+        "email": "prof.python@unip.com",
+        "idade": 40,
+        "is_admin": false,
+        "tipo": "professor",
+        "data_cadastro": "2025-11-06T20:50:52.219266",
+        "cursos": [
+            "1",
+            "4"
+        ],
+        "nome_completo": "Professor Python",
+        "telefone": "(11) 98888-8888"
+    },
+    "prof.web": {
+        "senha": "Professor@123",
+        "email": "prof.web@unip.com",
+        "idade": 38,
+        "is_admin": false,
+        "tipo": "professor",
+        "data_cadastro": "2025-11-06T20:50:52.219271",
+        "cursos": [
+            "2"
+        ],
+        "nome_completo": "Daniel alves",
+        "telefone": "(11) 97777-7777"
+    },
+    "davi": {
+        "senha": "Davi1234@",
+        "email": "davi@aluno.unip.br",
+        "idade": 20,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-06T20:51:53.207358",
+        "cursos": [
+            1,
+            2,
+            3,
+            "1",
+            "2",
+            "3",
+            "7"
+        ],
+        "nome_completo": "davi",
+        "telefone": "(11) 93243-1230",
+        "certificados": [
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "08/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "08/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "09/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "09/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "25/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 133.33333333333331,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\wesle\\OneDrive\\Área de Trabalho\\Pin\\certificados\\certificado_1_davi_20251125201616.pdf"
+            },
+            {
+                "curso": "Desenvolvimento Web Full Stack Moderno",
+                "curso_id": "2",
+                "data": "25/11/2025",
+                "carga_horaria": "120 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\wesle\\OneDrive\\Área de Trabalho\\Pin\\certificados\\certificado_2_davi_20251125202015.pdf"
+            },
+            {
+                "curso": "Computaria ",
+                "curso_id": "7",
+                "data": "25/11/2025",
+                "carga_horaria": "69h",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Conclusão Total",
+                "arquivo_pdf": "c:\\Users\\wesle\\OneDrive\\Área de Trabalho\\Pin\\certificados\\certificado_7_davi_20251125202538.pdf"
+            },
+            {
+                "curso": "Desenvolvimento Web Full Stack Moderno",
+                "curso_id": "2",
+                "data": "27/11/2025",
+                "carga_horaria": "120 horas",
+                "aluno_nome": "davi",
+                "aluno_usuario": "davi",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)"
+            }
+        ],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null
+    },
+    "samuel": {
+        "senha": "Samuca10@",
+        "email": "samuel@aluno.unip.br",
+        "idade": 20,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-24T20:57:07.878485",
+        "cursos": [
+            "4",
+            "7",
+            "1"
+        ],
+        "nome_completo": "samuel silva nascimento",
+        "telefone": "(11) 99999-9999",
+        "certificados": [
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Conclusão Total"
+            },
+            {
+                "curso": "Engenharia de software agil",
+                "curso_id": "7",
+                "data": "25/11/2025",
+                "carga_horaria": "45hh",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Conclusão Total"
+            },
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)"
+            },
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\nelia\\Desktop\\projeto novo\\certificados\\certificado_4_samuel_20251125194910.pdf"
+            },
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\nelia\\Desktop\\projeto novo\\certificados\\certificado_4_samuel_20251125195643.pdf"
+            },
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\nelia\\Desktop\\projeto novo\\certificados\\certificado_4_samuel_20251125200134.pdf"
+            },
+            {
+                "curso": "python para iniciantes",
+                "curso_id": "4",
+                "data": "25/11/2025",
+                "carga_horaria": "45h",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "c:\\Users\\nelia\\Desktop\\projeto novo\\certificados\\certificado_4_samuel_20251125200302.pdf"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "27/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Conclusão Total"
+            },
+            {
+                "curso": "Python para Ciência de Dados e IA",
+                "curso_id": "1",
+                "data": "27/11/2025",
+                "carga_horaria": "80 horas",
+                "aluno_nome": "samuel silva nascimento",
+                "aluno_usuario": "samuel",
+                "nota_final": 100.0,
+                "progresso": 100.0,
+                "tipo": "Parcial (80%+)",
+                "arquivo_pdf": "d:\\pim para apresentação\\certificados\\certificado_1_samuel_20251127181023.pdf"
+            }
+        ],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null,
+        "preferencias_aprendizado": {
+            "modalidade": "pratica",
+            "ritmo": "moderado"
+        },
+        "interesses": [
+            "ciber",
+            "analise",
+            "python"
+        ]
+    },
+    "boghipalmeirense": {
+        "senha": "Boghi123@",
+        "email": "boghipalmeirense@prof.unip.br",
+        "idade": 35,
+        "is_admin": false,
+        "tipo": "professor",
+        "data_cadastro": "2025-11-25T19:29:44.205619",
+        "cursos": [
+            "7"
+        ],
+        "nome_completo": "claudio boghi",
+        "telefone": "(11) 99999-9999",
+        "especialidade": "python",
+        "bio": "doutor em todos os cursos possiveis"
+    },
+    "miguel": {
+        "senha": "Lordjok3r@",
+        "email": "miguel@aluno.unip.br",
+        "idade": 16,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-27T15:05:34.665236",
+        "cursos": [],
+        "nome_completo": "Miguel Silva barbosa",
+        "telefone": "(11) 00000-0000",
+        "certificados": [],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null,
+        "preferencias_aprendizado": {
+            "modalidade": "pratica",
+            "ritmo": "moderado"
+        },
+        "interesses": [
+            "programação",
+            "analise",
+            "python",
+            "c#"
+        ]
+    },
+    "davi_c": {
+        "senha": "Samuel10@",
+        "email": "davi_c@aluno.unip.br",
+        "idade": 20,
+        "is_admin": false,
+        "tipo": "aluno",
+        "data_cadastro": "2025-11-27T20:10:25.733640",
+        "cursos": [
+            "1"
+        ],
+        "nome_completo": "davi cerqueira",
+        "telefone": "(19) 99999-9999",
+        "certificados": [],
+        "modulos_concluidos": {},
+        "ultimo_acesso": null,
+        "preferencias_aprendizado": {
+            "modalidade": "pratica",
+            "ritmo": "moderado"
+        },
+        "interesses": [
+            "cibersegurança",
+            "programação",
+            "dados"
+        ]
+    }
+}
